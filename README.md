@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 🔭 I’m currently Learning Fulll Stack Development.<br>👯 I’m looking to collaborate on Data science , Machine learning and AI projects.<br>🤝 Automating things with python is the best thing in the world.<br>🌱 I'm trying to grow as a developer.<br>
 
 
